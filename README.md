@@ -1,2 +1,3 @@
 # DL-pytorch-quick-start-guide
-book
+
+_Author: David Julian_
